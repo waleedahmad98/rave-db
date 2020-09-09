@@ -1,4 +1,4 @@
-# Rave-db
+# Rave-DB
 ## Description:
 A database systems project created in ASP.NET MVC. This is a music database that stores and plays songs after they have been uploaded.
 
